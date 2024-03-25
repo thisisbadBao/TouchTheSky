@@ -4,7 +4,7 @@
 
 小白或者叫小方对天空无限向往，有一天晚上他带上他的橡胶绳子开始向上，登上一级级方框，云朵像糖，月光像霜。
 
-### 🎮How to run this game
+## 🎮How to run this game
 
 The game is made with [Dorothy-SSR](https://dorothy-ssr.net), a 2D game engine for rapid development of 2D games on various devices.
 
@@ -13,3 +13,7 @@ The game is made with [Dorothy-SSR](https://dorothy-ssr.net), a 2D game engine f
 Follow the [tutorial](https://dorothy-ssr.net/docs/tutorial/quick-start/) to install the engine and run the game.
 
 Or you can simply download the game [here](https://badbao.itch.io/touch-the-sky) for Mac or PC.
+
+## License
+
+MIT
