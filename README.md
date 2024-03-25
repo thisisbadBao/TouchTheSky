@@ -6,11 +6,11 @@
 
 ## 🎮How to run this game
 
-The game is made with [Dorothy-SSR](https://dorothy-ssr.net), a 2D game engine for rapid development of 2D games on various devices.
+The game is made with [Dorothy-SSR](https://dora-ssr.net), a 2D game engine for rapid development of 2D games on various devices.
 
 🔗Engine repo:[GitHub - IppClub/Dorothy-SSR: Dorothy Project, Special Super Rare Edition.](https://github.com/IppClub/Dorothy-SSR)
 
-Follow the [tutorial](https://dorothy-ssr.net/docs/tutorial/quick-start/) to install the engine and run the game.
+Follow the [tutorial](https://dora-ssr.net/docs/tutorial/quick-start/) to install the engine and run the game.
 
 Or you can simply download the game [here](https://badbao.itch.io/touch-the-sky) for Mac or PC.
 
